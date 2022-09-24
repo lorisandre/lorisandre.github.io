@@ -2,31 +2,26 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Loris André
     - name: Date of Birth
-      value: 14th March 1879
+      value: 22nd July 1996
     - name: Languages
-      value: English, German
+      value: French (native), English (fluent), Portuguese (Good knowledge), Spanish (Basic knowledge)
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Paris School of Economics, Paris, France
+      year: 2022-2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
+        - Essays on Economic Growth, Innovation and Ecosystem Conservation
+        - Under the supervision of Prof. Philippe AGHION and Prof. Katheline SCHUBERT
+    - title: Master Analysis and policy in Economics
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Highest honors
 
 - title: Experience
   type: time_table
