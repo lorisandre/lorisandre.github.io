@@ -15,7 +15,7 @@ footer_text: >
 keywords: Economics, Growth, Biodiversity
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon:  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ANDRE_Loris_photo-min.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://lorisandre.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
