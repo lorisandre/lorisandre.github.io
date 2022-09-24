@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-10-224 09:30:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+Prensenting at the Banque de France's conference <a href='[https://www.parisschoolofeconomics.eu/](https://www.banque-france.fr/en/frontiers-climate-and-nature-macroeconomics-and-finance)'>Frontiers of climate and nature in macroeconomics and finance</a>.
