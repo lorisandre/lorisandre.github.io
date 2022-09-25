@@ -14,16 +14,23 @@
     - title: PhD candidate "Essays on Economic Growth, Innovation and Ecosystem Conservation"
       institution: Paris School of Economics, Paris, France
       year: 2022-2025
-      description:
-        - "Advisors: Prof. Philippe AGHION and Prof. Katheline SCHUBERT"
+      description: "Advisors: Prof. Philippe AGHION and Prof. Katheline SCHUBERT"
     - title: Master "Analysis and policy in Economics" with highest honors
       institution: Paris School of Economics, Paris, France
       year: 2021
+      description: 
+      "Master thesis": "Financing sustainable production chains to curb deforestation? The example of the Brazilian Amazon"
+      "Supervisor": Prof. Liam WREN-LEWIS
+    - title: Advanced Master "Public policies and actions for sustainable development"
+      institution: Agro ParisTech and École nationale des ponts et chaussées, Paris, France
+      year: 2022
       description:
-        - "Master thesis": "Financing sustainable production chains to curb deforestation? The example of the Brazilian Amazon"
-        - "Supervisor": Prof. Liam WREN-LEWIS
-
-- title: Experience
+    - title: Engineering degree 
+      institution: École nationale des ponts et chaussées, Paris, France
+      year: 2022
+      description: Department of Economics, Management and Finance. Specialisation: Economics engineer
+    
+- title: Working experience
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
