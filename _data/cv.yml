@@ -43,52 +43,9 @@
       institution: Inspection générale des finances
       year: 2020
       description:
-        - Participating in the writing of the report [Évaluation de la dette des établissements publics de santé et des modalités de sa reprise](https://www.vie-publique.fr/sites/default/files/rapport/pdf/276190_0.pdf) (Evaluation of the debt of public health institutions and the terms of its assumption)
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Participating in the writing of the report <a href="https://www.vie-publique.fr/sites/default/files/rapport/pdf/276190_0.pdf">Évaluation de la dette des établissements publics de santé et des modalités de sa reprise</a> (Evaluation of the debt of public health institutions and the terms of its assumption)
+    - title: Intern
+      institution: French Embassy in Brazil, Brasilia, DF, Brazil
+      year: 2019
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Regional Economic Service, French Treasury
