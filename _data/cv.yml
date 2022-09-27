@@ -3,7 +3,7 @@
   contents:
     - name: Full Name
       value: Loris André
-    - name: Date of Birth
+    - name: Birth
       value: 22nd July 1996
     - name: Languages
       value: French (native), English (fluent), Portuguese (Good knowledge), Spanish (Basic knowledge)
@@ -34,22 +34,16 @@
 - title: Working experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant
+      institution: Banque de France, Paris, France
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - European and multilateral policies directorate, International monetary relations department.
+    - title: Intern
+      institution: Inspection générale des finances
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
+        - Participating in the writing of the report [Évaluation de la dette des établissements publics de santé et des modalités de sa reprise](https://www.vie-publique.fr/sites/default/files/rapport/pdf/276190_0.pdf) (Evaluation of the debt of public health institutions and the terms of its assumption)
 
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
