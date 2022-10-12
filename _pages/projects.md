@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: work in progress
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Some information about my current work
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [work]
 horizontal: false
 ---
 
