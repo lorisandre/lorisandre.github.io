@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-10-24 09:30:00-0400
+date: 2023-02-14 17:00:00-0400
 inline: true
 ---
 
-Prensenting at the Banque de France conference <a href='https://www.banque-france.fr/en/frontiers-climate-and-nature-macroeconomics-and-finance'>Frontiers of climate and nature in macroeconomics and finance</a>.
+Presenting at the <a href='https://www.parisschoolofeconomics.eu/fr/recherche-academique/vie-academique/seminaires/petit-seminaire-informel-de-la-paris-school-of-economics/'>Petit Séminaire Informel de la Paris School of Economics</a>.
