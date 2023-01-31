@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Green Finance int he Amazon rainforest
+title: Green finance in the Amazon rainforest
 description: With Julio Ramos-Tallada
 img: assets/img/rainforest.jpg
 importance: 1
 category: work
 ---
-# Green finance and deforestation reduction in Brazil: a PVAR analysis of the Amazon Fund
+#### Green finance and deforestation reduction in Brazil: a PVAR analysis of the Amazon Fund
 
 Abstract
 
