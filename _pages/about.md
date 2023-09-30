@@ -22,8 +22,10 @@ My main work consists in proposing methods for integrating biodiversity into mac
   
 Before starting my thesis, I obtained my engineering degree at the École des Ponts ParisTech. I am now a civil servant in the "Corps des ponts, des eaux et des forêts". In parallel to my studies, I have had several professional experiences during the last years: I have mainly worked for the French economic administration. In 2019, I was an intern at the French Embassy in Brazil for the French Treasury. I then joined the Inspection générale des finances to work on public policies such as the financial management of hospitals. More recently, in 2022, I was a research assistant at the Banque de France in the international monetary relations department: my work was on modeling disruptions in global value chains in a context of ecological transition.
 
-<!---
 <hr>
+
+<!---
+
 <blockquote> 
 <a href='https://www.theses.fr/s348489'>My thesis project</a>
 </blockquote>
