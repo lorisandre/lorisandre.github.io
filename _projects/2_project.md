@@ -16,7 +16,7 @@ I show that only agriculture and industry rely on provisioning ecosystem service
 
 $$S = (\overline{T}-T)^{z} \And  ES = B^\sigma $$
 
-where $$S$$ is the long term level of biodiversity, $$B$$ is the current level and $\overline{T}$ the total stock of land. $$B$$ is converging to $$S$$ at the relaxation rate $$\epsilon$$: $$\dot{B}=-\epsilon(B-S)$$.
+where $$S$$ is the long term level of biodiversity, $$B$$ is the current level and $$\overline{T}$$ the total stock of land. $$B$$ is converging to $$S$$ at the relaxation rate $$\epsilon$$: $$\dot{B}=-\epsilon(B-S)$$.
 
 In a static framework, I show that the optimal share of natural habitat depends on several key parameters, mainly related to the production structure, when an agent only values consumption and not nature itself:
 
