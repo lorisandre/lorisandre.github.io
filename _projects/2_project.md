@@ -2,18 +2,20 @@
 layout: page
 title: Enconomic growth and biodiversity
 description: 
-img: assets/img/rainforest.jpg
+img: assets/img/img_biodiv.png
 importance: 1
 category: work
 ---
 ### Economic growth and biodiversity: a sectoral model
 
-Many scientists are claiming that the Sixth Mass Extinction of species is underway. On top of the direct impacts on human well-being through the emergence of zoonoses or the risk of biological annihilation, one reason to worry is that biodiversity provides numerous ecosystem services that are essential to the economy. The aim of this paper is therefore to propose a macroeconomic growth model that takes into account the dynamics of biodiversity and the ecosystem services it provides. The model is inspired by Dasgupta's methodological proposal emphasizing on the embeddedness of the economy in nature. However, I rework the production function of Dasgupta: (i) concrete ecosystem services, such as the supply of biomass and water, are directly included in the production process and replace the notion of natural capital, and (ii) the economy is divided into three sectors (agriculture "a", industry "i" and services "s") in order to better reflect its interactions with nature. Using the environmental extensions of the GLORIA MRIO database, I calibrate the following production functions, for $j \in \{a,i,s\}$:
+Many scientists are claiming that the Sixth Mass Extinction of species is underway. On top of the direct impacts on human well-being through the emergence of zoonoses or the risk of biological annihilation, one reason to worry is that biodiversity provides numerous ecosystem services that are essential to the economy. The aim of this paper is therefore to propose a macroeconomic growth model that takes into account the dynamics of biodiversity and the ecosystem services it provides. The model is inspired by Dasgupta's methodological proposal emphasizing on the embeddedness of the economy in nature. However, I rework the production function of Dasgupta: (i) concrete ecosystem services, such as the supply of biomass and water, are directly included in the production process and replace the notion of natural capital, and (ii) the economy is divided into three sectors (agriculture "a", industry "i" and services "s") in order to better reflect its interactions with nature. Using the environmental extensions of the GLORIA MRIO database, I calibrate the following production functions, for $$j \in \{a,i,s\}$$:
 
 $$Y_j = A_j \times \prod_{l=1}^{m} ES_{jl}^{\gamma_{l,j}} \times K_j^{1-\alpha_j-\theta_j} L_j^{\alpha_j} \times T_j^{\theta_j}$$
 
-I show that only agriculture and industry rely on provisioning ecosystem services ($ES$) and that agriculture relies on land ($T$) with a very low elasticity of $\theta_a \approx 0.03$, in this Cobb-Douglas framework.  Next, an in-depth review of the biology literature led me to select two relationships that are useful for endogenising biodiversity in an optimal growth model. Both the \enquote{Species-Area relationship} (SAR) and the \enquote{Biodiversity-Ecosystem Functioning relationship} (BEF) are useful to grasp the mutual interactions between biodiversity and the economy:
+I show that only agriculture and industry rely on provisioning ecosystem services ($$ES$$) and that agriculture relies on land ($$T$$) with a very low elasticity of $$\theta_a \approx 0.03$$, in this Cobb-Douglas framework.  Next, an in-depth review of the biology literature led me to select two relationships that are useful for endogenising biodiversity in an optimal growth model. Both the "Species-Area relationship" (SAR) and the "Biodiversity-Ecosystem Functioning relationship" (BEF) are useful to grasp the mutual interactions between biodiversity and the economy:
+
 $$S = (\overline{T}-T)^{z} \And  ES = B^\sigma $$
+
 where $S$ is the long term level of biodiversity, $B$ is the current level and $\overline{T}$ the total stock of land. $B$ is converging to $S$ at the relaxation rate $\epsilon$: $\dot{B}=-\epsilon(B-S)$.
 
 In a static framework, I show that the optimal share of natural habitat depends on several key parameters, mainly related to the production structure, when an agent only values consumption and not nature itself:
