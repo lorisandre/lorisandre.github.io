@@ -14,7 +14,7 @@ $$Y_j = A_j \times \prod_{l=1}^{m} ES_{jl}^{\gamma_{l,j}} \times K_j^{1-\alpha_j
 
 I show that only agriculture and industry rely on provisioning ecosystem services ($ES$) and that agriculture relies on land ($T$) with a very low elasticity of $\theta_a \approx 0.03$, in this Cobb-Douglas framework.  Next, an in-depth review of the biology literature led me to select two relationships that are useful for endogenising biodiversity in an optimal growth model. Both the \enquote{Species-Area relationship} (SAR) and the \enquote{Biodiversity-Ecosystem Functioning relationship} (BEF) are useful to grasp the mutual interactions between biodiversity and the economy:
 $$S = (\overline{T}-T)^{z} \And  ES = B^\sigma $$
-where $S$ is the long term level of biodiversity, $B$ is the current level and $\overline{T}$ the total stock of land. $B$ is converging to $S$ at the relaxation rate $\epsilon$: $\Dot{B}=-\epsilon(B-S)$.
+where $S$ is the long term level of biodiversity, $B$ is the current level and $\overline{T}$ the total stock of land. $B$ is converging to $S$ at the relaxation rate $\epsilon$: $\dot{B}=-\epsilon(B-S)$.
 
 In a static framework, I show that the optimal share of natural habitat depends on several key parameters, mainly related to the production structure, when an agent only values consumption and not nature itself:
 
