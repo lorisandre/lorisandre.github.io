@@ -16,13 +16,13 @@ I show that only agriculture and industry rely on provisioning ecosystem service
 
 $$S = (\overline{T}-T)^{z} \And  ES = B^\sigma $$
 
-where $S$ is the long term level of biodiversity, $B$ is the current level and $\overline{T}$ the total stock of land. $B$ is converging to $S$ at the relaxation rate $\epsilon$: $\dot{B}=-\epsilon(B-S)$.
+where $$S$$ is the long term level of biodiversity, $$B$$ is the current level and $\overline{T}$ the total stock of land. $$B$$ is converging to $$S$$ at the relaxation rate $$\epsilon$$: $$\dot{B}=-\epsilon(B-S)$$.
 
 In a static framework, I show that the optimal share of natural habitat depends on several key parameters, mainly related to the production structure, when an agent only values consumption and not nature itself:
 
 $$\frac{\overline{T}-T^*}{\overline{T}}=1-\frac{\theta_a }{\theta_a + z \sigma \left( \gamma_a + \gamma_i \frac{\alpha_a}{\alpha_i}\frac{l_0-l_a}{l_a}\right)} $$
 
-I find that $\frac{\overline{T}-T^*}{\overline{T}}\approx33%$ with previously estimated values of $\alpha$, $\theta$ and $\gamma$ and typical values of $z$, $\sigma$ and $l$, which is lower than the current share of world natural habitat ($\approx45%$). This result must be taken with caution and reveals certain limitations of the neoclassical exercise that I discuss in the paper.
+I find that $$\frac{\overline{T}-T^*}{\overline{T}}\approx33%$$ with previously estimated values of $$\alpha$$, $$\theta$$ and $$\gamma$$ and typical values of $$z$$, $$\sigma$$ and $$l$$, which is lower than the current share of world natural habitat ($$\approx45%$$). This result must be taken with caution and reveals certain limitations of the neoclassical exercise that I discuss in the paper.
 
 Beyond the simple static exercise on the structural determinants of the level of conservation of natural habitats, I build a *biodiversity-integrated* optimal growth model, in which I assess the potential impacts of several policies on the optimal share of natural habitat. In this model, the representative agent consumes three types of goods (from agriculture, industry and services) with non-homothetic preferences calibrated to mimic the observations at a country level in the GLORIA database. Because of these non-homothetic preferences, I show that policies such as **reduction in food waste** or **land use intensification** (without considering negative externalities of chemicals on biodiversity) lead to a higher optimal share of natural habitat. Also, I show that **going vegetarian** leads to similar results, when plant proteins are taken into account in animal feed.
 
