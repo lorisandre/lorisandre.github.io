@@ -6,7 +6,7 @@ subtitle: PhD student at the <a href='https://www.parisschoolofeconomics.eu/'>Pa
 
 profile:
   align: right
-  image: ANDRE_Loris_photo-min.jpg
+  image: photo_website.jpg
   image_circular: false # crops the image to make it circular
   address: >
 
