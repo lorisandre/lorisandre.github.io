@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 <div style="text-align: justify">
   
-I am a PhD student at the Paris School of Economics and the "Collège de France", under the supervision of <a href='https://www.parisschoolofeconomics.eu/en/schubert-katheline/'>Prof. Katheline Schubert</a> and <a href='https://scholar.google.com/citations?user=CPLK16oAAAAJ&hl=en'>Prof. Philippe Aghion</a>. Until December 2023, I will be visiting the Department of Geography and Environment of the London School of Economics with <a href='https://www.lse.ac.uk/granthaminstitute/profile/ben-groom/'>Prof. Ben Groom</a> and <a href='https://www.lse.ac.uk/granthaminstitute/profile/frank-venmans/'>Prof. Frank Venmans</a>.
+I am a PhD student at the Paris School of Economics and the "Collège de France", under the supervision of <a href='https://www.parisschoolofeconomics.eu/en/schubert-katheline/'>Prof. Katheline Schubert</a> and <a href='https://scholar.google.com/citations?user=CPLK16oAAAAJ&hl=en'>Prof. Philippe Aghion</a>. Until December 2023, I was visiting the Department of Geography and Environment of the London School of Economics with <a href='https://www.lse.ac.uk/granthaminstitute/profile/ben-groom/'>Prof. Ben Groom</a> and <a href='https://www.lse.ac.uk/granthaminstitute/profile/frank-venmans/'>Prof. Frank Venmans</a>.
 
 My main work consists in proposing methods for integrating biodiversity into macroeconomics: I build on the theoretical work of Prof. Partha Dasgupta. Passionate about economics, my work is also empirical (focusing on the Amazon rainforest).
   
