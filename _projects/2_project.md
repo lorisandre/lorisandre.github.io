@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Enconomic growth and biodiversity
+title: Economic growth and biodiversity
 description: 
 img: assets/img/img_biodiv.png
 importance: 1
