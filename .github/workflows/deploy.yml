@@ -27,6 +27,12 @@ jobs:
       run: |
         npm install -g mermaid.cli
 
+    - name: Update Bundler and Install Dependencies
+      run: |
+        gem install bundler
+        bundle update --bundler
+        bundle install
+
     - name: Setup deploy options
       run: |
         git config --global user.name "GitHub Action"
