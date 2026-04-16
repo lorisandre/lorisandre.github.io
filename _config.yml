@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Loris
 middle_name: 
 last_name: ANDRÉ
-email: loris[dot]andre[at]psemail[dot]eu
+email: contact[at]lorisandre[dot]fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -70,13 +70,13 @@ twitter_username: LorisAndr9
 linkedin_username: lorisandre
 scholar_userid: 1wxiWXYAAAAJ&hl
 semanticscholar_id: # your Semantic Scholar ID
-orcid_id: # your ORCID ID
+orcid_id: 0009-0003-8597-0910
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: https://www.parisschoolofeconomics.eu/en/andre-loris/
+work_url: https://www.parisschoolofeconomics.eu/en/persons/loris-andre/
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
