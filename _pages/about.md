@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am currently an engineer in the *Corps des Ponts, des Eaux et des Forêts* and serve as Deputy Head of Household Taxation at the French Treasury. I completed my PhD in 2025 at Paris School of Economics, *Collège de France*, and *École nationale des Ponts et Chaussées*, under the supervision of <a href='https://www.parisschoolofeconomics.eu/en/schubert-katheline/'>Prof. Katheline Schubert</a> and <a href='https://scholar.google.com/citations?user=CPLK16oAAAAJ&hl=en'>Prof. Philippe Aghion</a>. My dissertation, **Essays on the Economics of Biodiversity**, develops new approaches to integrating biodiversity into macroeconomic analysis.
 
-My research focuses on how ecological dynamics—particularly those related to biodiversity—can be better incorporated into economic frameworks. I combine theoretical and empirical approaches within an interdisciplinary perspective, with a particular emphasis on the Amazon rainforest.
+My research focuses on how ecological dynamics, particularly those related to biodiversity, can be better incorporated into economic frameworks. I combine theoretical and empirical approaches within an interdisciplinary perspective, with a particular emphasis on the Amazon rainforest.
 
 During my PhD, I was a visiting researcher at London School of Economics, where I collaborated with with <a href='https://www.lse.ac.uk/granthaminstitute/profile/ben-groom/'>Prof. Ben Groom</a> and <a href='https://www.lse.ac.uk/granthaminstitute/profile/frank-venmans/'>Prof. Frank Venmans</a>.
 
