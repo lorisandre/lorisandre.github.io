@@ -22,4 +22,4 @@ My research focuses on how ecological dynamics, particularly those related to bi
 
 During my PhD, I was a visiting researcher at London School of Economics, where I collaborated with with <a href='https://www.lse.ac.uk/granthaminstitute/profile/ben-groom/'>Prof. Ben Groom</a> and <a href='https://www.lse.ac.uk/granthaminstitute/profile/frank-venmans/'>Prof. Frank Venmans</a>.
 
-Prior to and alongside my academic work, I gained experience in several major public economic institutions. I worked at the French Treasury, at the *Inspection générale des finances* on public policy issues, and served as a research assistant at *Banque de France*, where I worked on modeling disruptions in global value chains in the context of the ecological transition.
+Prior to and alongside my academic work, I gained experience in several public economic institutions. I worked at the French Treasury, at the *Inspection générale des finances* on public policy issues, and served as a research assistant at *Banque de France*, where I worked on modeling disruptions in global value chains in the context of the ecological transition.
