@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student at the <a href='https://www.parisschoolofeconomics.eu/'>Paris School of Economics</a>. 
+subtitle: PhD, <a href='https://www.parisschoolofeconomics.eu/'>Paris School of Economics</a>. 
 
 profile:
   align: right
@@ -15,12 +15,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <div style="text-align: justify">
-  
-I am a PhD student at the Paris School of Economics and the "Collège de France", under the supervision of <a href='https://www.parisschoolofeconomics.eu/en/schubert-katheline/'>Prof. Katheline Schubert</a> and <a href='https://scholar.google.com/citations?user=CPLK16oAAAAJ&hl=en'>Prof. Philippe Aghion</a>. In autumn 2023, I was visiting the Department of Geography and Environment of the London School of Economics with <a href='https://www.lse.ac.uk/granthaminstitute/profile/ben-groom/'>Prof. Ben Groom</a> and <a href='https://www.lse.ac.uk/granthaminstitute/profile/frank-venmans/'>Prof. Frank Venmans</a>.
 
-My main work consists in proposing methods for integrating biodiversity into macroeconomics: I build on the theoretical work of Prof. Partha Dasgupta. Passionate about economics, my work is also empirical (focusing on the Amazon rainforest).
-  
-Before starting my thesis, I obtained my engineering degree at the "École des Ponts ParisTech". I am now a civil servant in the "Corps des ponts, des eaux et des forêts". In parallel to my studies, I have had several professional experiences during the last years: I have mainly worked for the French economic administration. In 2019, I was an intern at the French Embassy in Brazil for the French Treasury. I then joined the "Inspection générale des finances" to work on public policies such as the financial management of hospitals. More recently, in 2022, I was a research assistant at the "Banque de France" in the international monetary relations department: my work was on modeling disruptions in global value chains in a context of ecological transition.
+I am currently an engineer in the *Corps des Ponts, des Eaux et des Forêts* and serve as Deputy Head of Household Taxation at the French Treasury. I completed my PhD in 2025 at Paris School of Economics, *Collège de France*, and *École nationale des Ponts et Chaussées*, under the supervision of <a href='https://www.parisschoolofeconomics.eu/en/schubert-katheline/'>Prof. Katheline Schubert</a> and <a href='https://scholar.google.com/citations?user=CPLK16oAAAAJ&hl=en'>Prof. Philippe Aghion</a>. My dissertation, **Essays on the Economics of Biodiversity**, develops new approaches to integrating biodiversity into macroeconomic analysis.
+
+My research focuses on how ecological dynamics—particularly those related to biodiversity—can be better incorporated into economic frameworks. I combine theoretical and empirical approaches within an interdisciplinary perspective, with a particular emphasis on the Amazon rainforest.
+
+During my PhD, I was a visiting researcher at London School of Economics, where I collaborated with with <a href='https://www.lse.ac.uk/granthaminstitute/profile/ben-groom/'>Prof. Ben Groom</a> and <a href='https://www.lse.ac.uk/granthaminstitute/profile/frank-venmans/'>Prof. Frank Venmans</a>.
+
+Prior to and alongside my academic work, I gained experience in several major public economic institutions. I worked at the French Treasury, at the *Inspection générale des finances* on public policy issues, and served as a research assistant at *Banque de France*, where I worked on modeling disruptions in global value chains in the context of the ecological transition.
 
 <hr>
 
